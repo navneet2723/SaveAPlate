@@ -1,0 +1,4 @@
+test/
+train/
+env
+__pycache__
